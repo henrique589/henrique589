@@ -1,4 +1,4 @@
-### Olá! Meu sou o Henrique Azevedo
+### Olá! Sou o Henrique Azevedo
 
 - 🌱 Estudando Ciência da Computação
 - 📫 Contate-me no email: henriqueazevedoandrade@gmail.com
