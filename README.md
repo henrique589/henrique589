@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Ciência da Computação
 - 📫 Contate-me no email: henriqueazevedoandrade@gmail.com
-- 😄 Pronomes: ele/dele
+- 😄 Pronomes: isso/aquilo
 
 <div align="center">
   <a href="https://github.com/henrique589">
