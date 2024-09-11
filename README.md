@@ -1,8 +1,7 @@
 ### Olá! Sou o Henrique Azevedo
 
-- 🌱 Estudando Ciência da Computação
+- 🌱 Estudando Ciência da Computação 7/9
 - 📫 Contate-me no email: henriqueazevedoandrade@gmail.com
-- 😄 Pronomes: isso/aquilo
 
 <div align="center">
   <a href="https://github.com/henrique589">
