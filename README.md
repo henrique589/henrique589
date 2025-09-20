@@ -1,6 +1,6 @@
 ### Olá! Sou o Henrique Azevedo
 
-- 🌱 Estudando Ciência da Computação 7/9
+- 🌱 Estudando Ciência da Computação 8/9
 - 📫 Contate-me no email: henriqueazevedoandrade@gmail.com
 
 <div align="center">
