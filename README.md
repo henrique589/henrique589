@@ -27,16 +27,16 @@
 
 ## 👨‍💻 Sobre mim
 
-Formando em **Ciência da Computação** (8º de 9 períodos), com foco em desenvolvimento **back-end** e forte interesse por dados. Meu aprendizado é orientado a projeto: escolho um problema real, modelo o banco, construo a aplicação e refino até o código ficar manutenível.
+Formando em **Ciência da Computação** (8º de 9 períodos), com foco em desenvolvimento **desenvolvimento de software** e forte interesse por visão computacional. Meu aprendizado é orientado a projeto: escolho um problema real, modelo o banco, construo a aplicação e refino até o código ficar manutenível.
 
 Busco uma vaga de **estágio em desenvolvimento de software** onde eu possa contribuir com código desde o primeiro mês e crescer perto de um time experiente.
 
 | | |
 |---|---|
-| 🎯 **Objetivo** | Estágio em desenvolvimento back-end ou fullstack |
+| 🎯 **Objetivo** | Estágio em desenvolvimento de software |
 | 🌱 **Estudando agora** | Django REST Framework, testes automatizados e Git em equipe |
 | 🧠 **Base técnica** | POO, modelagem de dados, SQL e boas práticas de código |
-| 💬 **Fale comigo sobre** | Python, Django, Java, SQL e APIs |
+| 💬 **Fale comigo sobre** | Python, Django, OpenCV, Java, SQL e APIs |
 | 📫 **Contato** | [henriqueazevedoandrade@gmail.com](mailto:henriqueazevedoandrade@gmail.com) |
 
 ---
