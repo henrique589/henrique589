@@ -75,6 +75,9 @@ Busco uma vaga de **estágio em desenvolvimento de software** onde eu possa cont
 | **[Petshop](https://github.com/henrique589/Petshop)** | O sistema visa facilitar a organização de serviços, cadastros, vendas e agendamentos realizados em um ambiente de Pet Shop. | `Python` `Django` `SQLite3` |
 | **[Sistema de Cadastro de Produtos](https://github.com/henrique589/SistemaCadastroProdutos)** | Aplicação web para cadastro de produtos físicos e digitais, com API REST em Java 17 / Spring Boot 3 e interface em Angular 17, persistindo em PostgreSQL. | `Java` `POO` `SQL` |
 | **[FinanceAPP](https://github.com/henrique589/finance-app)** | Aplicação web desenvolvida com Django para controle financeiro pessoal, permitindo o gerenciamento de receitas, despesas, categorias e formas de pagamento. | `Python` `Docker` `Django` |
+| **[Compressão de Vídeos Aplicado ao Videomonitoramento de Caprinos](https://github.com/henrique589/compressao-video-caprinos)** | Avalia H.264 e H.265 em vídeo de confinamento de caprinos, buscando por
+Frente de Pareto a melhor relação entre tamanho de arquivo, custo de CPU
+e qualidade visual (PSNR/SSIM). | `Python` `ffmpeg` `OpenCV` |
 
 <p align="right"><a href="https://github.com/henrique589?tab=repositories">→ Ver todos os repositórios</a></p>
 
