@@ -15,7 +15,6 @@
     <img src="https://custom-icon-badges.demolab.com/github/followers/henrique589?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores" title="Me siga no GitHub" /></a>
   <a href="https://github.com/henrique589?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/github/stars/henrique589?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" alt="Estrelas" title="Total de estrelas" /></a>
-  <img src="https://komarev.com/ghpvc/?username=henrique589&style=for-the-badge&color=6f42c1&label=Visitas" alt="Visitas no perfil" />
 </p>
 
 <p align="center">
