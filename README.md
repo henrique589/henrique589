@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:3a6ea5&height=180&section=header&text=Henrique%20Azevedo&fontSize=42&fontColor=ffffff&desc=Desenvolvedor%20Fullstack%20%C2%B7%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o&descSize=16&descAlignY=64" alt="" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Python+%C2%B7+Django+%C2%B7+Java+%C2%B7+SQL;Formando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(8%2F9);Em+busca+de+est%C3%A1gio+em+desenvolvimento" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Python+%C2%B7+Django+%C2%B7+Java+%C2%B7+SQL;Formando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+(8%2F9);Em+busca+de+est%C3%A1gio+em+desenvolvimento+de+software" alt="" />
 </p>
 
 <p align="center">
